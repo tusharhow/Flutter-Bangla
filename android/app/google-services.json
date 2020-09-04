@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "725118447252",
+    "firebase_url": "https://flutterbangla-ceeba.firebaseio.com",
+    "project_id": "flutterbangla-ceeba",
+    "storage_bucket": "flutterbangla-ceeba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725118447252:android:eb3f0756ca955c5b808e81",
+        "android_client_info": {
+          "package_name": "com.example.tutorial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725118447252-6l19ernkel4g205ur01vu7qievdpr17c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHBWWJzdnJV4f3tVwp3E_MvGNIxzY6Yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725118447252-6l19ernkel4g205ur01vu7qievdpr17c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
